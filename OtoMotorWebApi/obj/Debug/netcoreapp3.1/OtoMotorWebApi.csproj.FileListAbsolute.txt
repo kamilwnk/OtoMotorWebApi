@@ -1,0 +1,16 @@
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\OtoMotorWebApi.exe
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\OtoMotorWebApi.csprojAssemblyReference.cache
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\OtoMotorWebApi.AssemblyInfoInputs.cache
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\OtoMotorWebApi.AssemblyInfo.cs
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\OtoMotorWebApi.RazorTargetAssemblyInfo.cache
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OtoMotorWebApi.StaticWebAssets.Manifest.cache
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\staticwebassets\OtoMotorWebApi.StaticWebAssets.xml
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OtoMotor\Api\OtoMotorWebApi\obj\Debug\netcoreapp3.1\OtoMotorWebApi.csproj.CopyComplete
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\NLog.dll
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\OtoMotor\Api\OtoMotorWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
