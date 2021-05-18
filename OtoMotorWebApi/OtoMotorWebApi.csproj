@@ -12,5 +12,11 @@
     <PackageReference Include="NLog" Version="4.7.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="OtoMotorDto">
+      <HintPath>..\..\Dto\OtoMotorDto\bin\Debug\netcoreapp3.1\OtoMotorDto.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 
 </Project>
